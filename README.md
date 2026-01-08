@@ -58,7 +58,7 @@ AI-based system to identify fake images/videos using CNN models.
 Chrome extension that switches between dark and light themes.
 - Tech: `HTML`, `CSS`, `JavaScript`
 - Focus: UI/UX & browser extensions
-- 🔗 (Add your repo link here)
+- 🔗 https://github.com/mrahul01/Chrome-Extension.git
 
 ---
 
