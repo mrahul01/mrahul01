@@ -38,11 +38,11 @@ I enjoy turning ideas into working solutions and continuously improving my probl
 ---
 
 ## ⭐ Featured projects
-### 🎭 Emotion Recognition Using OpenCV & Deep Learning
-Detects facial emotions such as happy, sad, angry, and surprised in real time.
-- Tech: `Python`, `OpenCV`, `CNN`
-- Focus: Computer vision & deep learning
-- 🔗 https://github.com/mrahul01/Emotion-Recognition-Using-OpenCV
+### 🧙 Real-Time Color-Based Invisibility Cloak
+A computer vision project that creates a real-time invisibility effect by detecting and masking a specific color using the webcam.
+- Tech: `Python`, `OpenCV`, `NumPy`
+- Focus: Computer Vision & Image Processing
+- 🔗 https://github.com/mrahul01/Real-Time-Color-Based-Invisibility-Cloak
 
 ---
 
