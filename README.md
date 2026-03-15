@@ -1,13 +1,3 @@
-# Hi, I'm Rahul 👋 (mrahul01)
-
-> Final-year B.Tech CSE student | AI/ML • Computer Vision • Python  
-> Building real-time, applied computer vision systems with practical impact.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrahul01&show_icons=true&theme=radical)](https://github.com/mrahul01)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahul01&layout=compact&theme=radical)](https://github.com/mrahul01)
-
----
-
 # Hi, I'm Rahul 👋
 
 💻 **Final-Year B.Tech Computer Science Student (RGUKT Basar)**
